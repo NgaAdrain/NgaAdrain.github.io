@@ -8,17 +8,45 @@
 	font-size:12pt;
 	color:#3296FF
 	}
+
 body {
 	background-color : #C1FF6B
 	}
+
+.container{
+
+	}
+
+.top{
+	background-color : #FFF064
+	}
+
+.mid{
+	background-color : #B4B4B4
+	}
+
+.bottom{
+	background-color : #FFDAB9
+	}
+
+.l_side{
 	
-h1 { 
+	}
+
+.r_side{
+	
+	}
+
+h1.head_text { 
 	text-align:center;
+	font-family: 'Black Han Sans', sans-serif;
 	font-size:24pt;
 	}
 
-p {
+p.main_text {
 	text-align:center;
+	font-family: 'Black Han Sans', sans-serif;
 	font-size:12pt;
+	font-weight: bold;
 	color:#3296FF
-	}
+	
