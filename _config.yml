@@ -60,7 +60,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: 졸업 과제
+        title: Graduation Project
         link: github.com/NgaAdrain
         # link_text: Project Website
         additional_links:
@@ -74,7 +74,7 @@ content:
           This is our Graduate Project
         description: | # this will include new lines to allow paragraphs
           Team: Enter Team Name here |
-          Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis |
+          Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis
           
           
   - title: Education # Title for the section
