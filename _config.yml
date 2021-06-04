@@ -48,12 +48,12 @@ github_username:  NgaAdrain
 # about_title: About Me
 about_profile_image: image/green_bonobono.jpg
 about_content: | # this will include new lines to allow paragraphs
-      헛소리 하지마 임마 ww |
-      - Python : 2015, 2019 ~ current
-      - C : 2015,2018 ~ 2019(with Linux, Embedded)
-      - C++ : 2016,2018 ~ current(Data Structure, File Structure,for Algorithm Implementation)
-      - Java : 2018~2019(Web, Android)
-      - Web(HTML,JavaScript,CSS,etc...) : 2019 (from Web Programming Course)
+  헛소리 하지마 임마 ww |
+  - Python : 2015, 2019 ~ current
+  - C : 2015,2018 ~ 2019(with Linux, Embedded)
+  - C++ : 2016,2018 ~ current(Data Structure, File Structure,for Algorithm Implementation)
+  - Java : 2018~2019(Web, Android)
+  - Web(HTML,JavaScript,CSS,etc...) : 2019 (from Web Programming Course)
 
 content:
   - title: Projects # Title for the section
