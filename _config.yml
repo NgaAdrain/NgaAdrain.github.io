@@ -48,7 +48,7 @@ github_username:  NgaAdrain
 # about_title: About Me
 about_profile_image: image/green_bonobono.jpg
 about_content: | # this will include new lines to allow paragraphs
-  헛소리 하지마 임마 ww |
+  헛소리 하지마 임마 ww
   - Python : 2015, 2019 ~ current
   - C : 2015,2018 ~ 2019(with Linux, Embedded)
   - C++ : 2016,2018 ~ current(Data Structure, File Structure,for Algorithm Implementation)
@@ -73,7 +73,7 @@ content:
         quote: >
           This is our Graduate Project
         description: | # this will include new lines to allow paragraphs
-          Team: Enter Team Name here |
+          Team: Enter Team Name here <br>
           Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis
           
           
@@ -102,7 +102,7 @@ content:
    - title: Special Thanks
      layout: top-middle
      content: |
-      [Web Theme](https://github.com/sproogen/modern-resume-theme)by sproogen |
+      [Web Theme](https://github.com/sproogen/modern-resume-theme)by sproogen <br>
       I really Appriciate it! Thank You!!!
 
 # Footer
