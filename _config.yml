@@ -25,7 +25,7 @@ github_username:  NgaAdrain
 # linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: UCfJo69633imwGgdyn_QcOcQ
+# youtube_username: UCfJo69633imwGgdyn_QcOcQ
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,8 +48,7 @@ youtube_username: UCfJo69633imwGgdyn_QcOcQ
 # about_title: About Me
 about_profile_image: image/green_bonobono.jpg
 about_content: | # this will include new lines to allow paragraphs
-        헛소리 하지마 임마 ww |
-      <h2>언어 목록</h2>
+      헛소리 하지마 임마 ww |
       - Python : 2015, 2019 ~ current
       - C : 2015,2018 ~ 2019(with Linux, Embedded)
       - C++ : 2016,2018 ~ current(Data Structure, File Structure,for Algorithm Implementation)
@@ -73,7 +72,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is our Graduate Project
-        description: > # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           Team: Enter Team Name here |
           Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis |
           
