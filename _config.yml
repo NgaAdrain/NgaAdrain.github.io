@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Enter Text here
+        title: 졸업 과제
         link: github.com/NgaAdrain
         # link_text: Project Website
         additional_links:
@@ -67,18 +67,20 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           This is our Graduate Project
-        description: | # this will include new lines to allow paragraphs
-          Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis 
+        description: > # this will include new lines to allow paragraphs
+          Team: Enter Team Name here |
+          Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis |
+          
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Pusan National University
         caption: 2015 - 2021
-        sub_title: BSc Computer Science
+        sub_title: Bachelor of Computer Science
         quote: >
-          아아 이것이 붓싼대 라는 것이다.  
+          부산에 위치한 4년제 국립 대학교.
         description: | # this will include new lines to allow paragraphs
           부산대 전기컴퓨터공학부 정보컴퓨터공학전공 공학사.
 
@@ -86,11 +88,22 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 개발자 지망
-      - AI 공부중
+      - Python : 2015, 2019 ~ current
+      - C : 2015,2018 ~ 2019(with Linux, Embedded)
+      - C++ : 2016,2018 ~ current(Data Structure, File Structure,for Algorithm Implementation)
+      - Java : 2018~2019(Web, Android)
+      - Web(HTML,JavaScript,CSS,etc...) : 2019 (from Web Programming Course)
+      - **[AI 공부중](https://github.com/NgaAdrain/Adrain_Code_History/tree/master/Busan_AI_Class)**
       - DNN, CNN을 조금 써봄
       - PyTorch는 좀 어렵다고 느껴짐.
       - Keras 짱짱
       - [아 코로나가 꼴받게 하자너어어](https://www.kaggle.com/andyczhao/covidx-cxr2)
+      
+   - title: Special Thanks
+     layout: top-middle
+     content: |
+      [Web Theme](https://github.com/sproogen/modern-resume-theme)by sproogen |
+      I really Appriciate it! Thank You!!!
 
 # Footer
 footer_show_references: true
