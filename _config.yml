@@ -48,7 +48,7 @@ youtube_username: Nga Adrain
 # about_title: About Me
 about_profile_image: image/green_bonobono.jpg
 about_content: | # this will include new lines to allow paragraphs
-  헛소리 하지마 임마 ww 도덕책 뭐가 문제고
+  헛소리 하지마 임마 ww <br> 도덕책 뭐가 문제고
   에반데
 
 content:
@@ -69,7 +69,7 @@ content:
         quote: >
           This is our Graduate Project
         description: | # this will include new lines to allow paragraphs
-          Team: Enter Team Name here |
+          Team: Enter Team Name here <br>
           Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis 
           
   - title: Education # Title for the section
