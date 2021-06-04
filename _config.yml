@@ -49,11 +49,12 @@ youtube_username: Nga Adrain
 about_profile_image: image/green_bonobono.jpg
 about_content: | # this will include new lines to allow paragraphs
   헛소리 하지마 임마 ww <br>
+  [소스코드](github.com/ngaadrain/Adrain_Code_History/tree/master/School)
   - Python : 2015, 2019 ~ current
   - C : 2015,2018 ~ 2019(with Linux, Embedded)
   - C++ : 2016,2018 ~ current(Data Structure, File Structure,for Algorithm Implementation)
   - Java : 2018~2019(Web, Android)
-  - Web(HTML,JavaScript,CSS,etc...) : 2019 (from Web Programming Course)
+  - Web(HTML,JavaScript,CSS,etc...) : 2019<br> (from Web Programming Course)
   
 content:
   - title: Projects # Title for the section
@@ -97,6 +98,9 @@ content:
       - PyTorch는 좀 어렵다고 느껴짐.
       - Keras 짱짱
       - [아 코로나가 꼴받게 하자너어어](https://www.kaggle.com/andyczhao/covidx-cxr2)
+      - 완벽한 정답은 없지만 완벽한 오답은 있다.
+      - 다름은 틀림이 아니다.
+      - 그리고 난 이상한 사람이다(?)
 
 # Footer
 footer_show_references: true
