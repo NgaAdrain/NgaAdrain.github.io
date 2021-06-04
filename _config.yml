@@ -49,18 +49,13 @@ github_username:  NgaAdrain
 about_profile_image: image/green_bonobono.jpg
 about_content: | # this will include new lines to allow paragraphs
   헛소리 하지마 임마 ww
-  - Python : 2015, 2019 ~ current
-  - C : 2015,2018 ~ 2019(with Linux, Embedded)
-  - C++ : 2016,2018 ~ current(Data Structure, File Structure,for Algorithm Implementation)
-  - Java : 2018~2019(Web, Android)
-  - Web(HTML,JavaScript,CSS,etc...) : 2019 (from Web Programming Course)
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Graduation Project
+        title: Enter Text here
         link: github.com/NgaAdrain
         # link_text: Project Website
         additional_links:
@@ -73,8 +68,7 @@ content:
         quote: >
           This is our Graduate Project
         description: | # this will include new lines to allow paragraphs
-          Team: Enter Team Name here <br>
-          Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis
+          Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis 
           
           
   - title: Education # Title for the section
