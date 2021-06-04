@@ -48,7 +48,8 @@ youtube_username: Nga Adrain
 # about_title: About Me
 about_profile_image: image/green_bonobono.jpg
 about_content: | # this will include new lines to allow paragraphs
-  헛소리 하지마 임마 ww
+  헛소리 하지마 임마 ww 도덕책 뭐가 문제고
+  에반데
 
 content:
   - title: Projects # Title for the section
@@ -68,6 +69,7 @@ content:
         quote: >
           This is our Graduate Project
         description: | # this will include new lines to allow paragraphs
+          Team: Enter Team Name here |
           Car Moving Recognition System With Sim2Real Deeplearning Based System For Behicle Status Analysis 
           
   - title: Education # Title for the section
@@ -78,7 +80,7 @@ content:
         caption: 2015 - 2021
         sub_title: BSc Computer Science
         quote: >
-          아아 이것이 붓싼대 라는 것이다.  
+          부산에 위치한 4년제 [국립 대학교](https://www.pusan.ac.kr/kor/Main.do). 
         description: | # this will include new lines to allow paragraphs
           부산대 전기컴퓨터공학부 정보컴퓨터공학전공 공학사.
 
@@ -86,7 +88,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 개발자 지망
-      - AI 공부중
+      - [AI 공부중](https://github.com/NgaAdrain/Adrain_Code_History/tree/master/Busan_AI_Class)
       - DNN, CNN을 조금 써봄
       - PyTorch는 좀 어렵다고 느껴짐.
       - Keras 짱짱
