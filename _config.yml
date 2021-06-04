@@ -85,9 +85,9 @@ content:
         caption: 2015 - 2021
         sub_title: BSc Computer Science
         quote: >
-          부산에 위치한 4년제 [국립 대학교](https://www.pusan.ac.kr/kor/Main.do). 
+          부산에 위치한 4년제 국립 대학교. 
         description: | # this will include new lines to allow paragraphs
-          부산대 전기컴퓨터공학부 정보컴퓨터공학전공 공학사.
+          [부산대](https://www.pusan.ac.kr/kor/Main.do) 전기컴퓨터공학부 정보컴퓨터공학전공 공학사.
 
   - title: 본인
     layout: text
