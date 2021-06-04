@@ -48,9 +48,13 @@ youtube_username: Nga Adrain
 # about_title: About Me
 about_profile_image: image/green_bonobono.jpg
 about_content: | # this will include new lines to allow paragraphs
-  헛소리 하지마 임마 ww <br> 도덕책 뭐가 문제고
-  에반데
-
+  헛소리 하지마 임마 ww <br>
+  - Python : 2015, 2019 ~ current
+  - C : 2015,2018 ~ 2019(with Linux, Embedded)
+  - C++ : 2016,2018 ~ current(Data Structure, File Structure,for Algorithm Implementation)
+  - Java : 2018~2019(Web, Android)
+  - Web(HTML,JavaScript,CSS,etc...) : 2019 (from Web Programming Course)
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
