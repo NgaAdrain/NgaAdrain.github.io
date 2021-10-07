@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Adrain
-title: Happy? Happy!? AI Developer
+title: C++ Builder Application Developer
 email: nugoonga@gmail.com
 website: www.github.com/NgaAdrain
 
@@ -50,9 +50,10 @@ about_profile_image: image/green_bonobono.jpg
 about_content: | # this will include new lines to allow paragraphs
   헛소리 하지마 임마 ww <br>
   [소스코드](https://github.com/ngaadrain/Adrain_Code_History/tree/master/School)
-  - Python : 2015, 2019 ~ current
+  - Python : 2015, 2019 ~ 2021(AI)
   - C : 2015,2018 ~ 2019(with Linux, Embedded)
   - C++ : 2016,2018 ~ current(Data Structure, File Structure,for Algorithm Implementation)
+        : 2021.06 ~ (Embarcadero RAD Studio C++ Builder)
   - Java : 2018~2019(Web, Android)
   - Web(HTML,JavaScript,CSS,etc...) : 2019<br> (from Web Programming Course)
   
@@ -92,8 +93,11 @@ content:
   - title: 본인
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 개발자 지망
-      - [AI 공부중](https://github.com/NgaAdrain/Adrain_Code_History/tree/master/Busan_AI_Class)
+      - C++ 빌더 응용프로그램 개발자
+      - 교통 분야 취업
+      - C++ 빌더 개발자이지만 JS를 더 많이 공부하는 개발자(?!)
+      - 현재 경기도 하남에서 근무중
+      - [AI 공부했었음](https://github.com/NgaAdrain/Adrain_Code_History/tree/master/Busan_AI_Class)
       - DNN, CNN을 조금 써봄
       - PyTorch는 좀 어렵다고 느껴짐.
       - Keras 짱짱
@@ -101,6 +105,7 @@ content:
       - 완벽한 정답은 없지만 완벽한 오답은 있다.
       - 다름은 틀림이 아니다.
       - 그리고 난 이상한 사람이다(?)
+      
 
 # Footer
 footer_show_references: true
